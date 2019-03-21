@@ -1,0 +1,9 @@
+<action>
+	<name>Noelshack</name>
+	<unique-id>1553166630030990-1</unique-id>
+	<command>bash -c &quot;url=\$(curl -X POST -F &apos;fichier[]=@%f&apos; &apos;http://www.noelshack.com/api.php&apos;); echo \$url | zenity --text-info&quot;</command>
+	<description>Mettre en ligne sur Noelshack</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<image-files/>
+</action>
