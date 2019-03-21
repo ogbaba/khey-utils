@@ -6,5 +6,6 @@ Insérez le contenu du XML dans `~/.config/Thunar/uca.xml` entre les balises `<a
 
 
 ## Alias bash pour uploader une image sur noelshack
-Insérez dans ~/.bashrc ou ~/.bash_aliases
+Insérez dans `~/.bashrc` ou `~/.bash_aliases`
+
 `cat bash_aliases >> ~/bash_aliases `
