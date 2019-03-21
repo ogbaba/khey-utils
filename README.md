@@ -3,6 +3,7 @@
 ## Menu contextuel pour uploader une image sur noelshack
 Nécessite zenity (apt install zenity sous Debian)
 Insérez le contenu du XML dans `~/.config/Thunar/uca.xml` entre les balises `<actions></actions>`
+
 Vous pouvez ajouter une icone via le menu de Thunar si vous le souhaitez.
 
 ## Alias bash pour uploader une image sur noelshack
