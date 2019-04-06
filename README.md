@@ -9,4 +9,4 @@ Vous pouvez ajouter une icone via le menu de Thunar si vous le souhaitez.
 ## Alias bash pour uploader une image sur noelshack
 Insérez dans `~/.bashrc` ou `~/.bash_aliases`
 
-`cat bash_aliases >> ~/bash_aliases `
+`cat bash_aliases >> ~/.bash_aliases `
