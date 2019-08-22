@@ -1,4 +1,4 @@
-# Utilitaires pour les Kheys de JVC et 2sucres sous Linux
+# Utilitaires pour les Kheys de JVC sous Linux
 
 ## Menu contextuel pour uploader une image sur noelshack
 Nécessite zenity (apt install zenity sous Debian)
